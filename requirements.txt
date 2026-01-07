@@ -1,0 +1,15 @@
+requests
+langchain
+streamlit
+langchain-community
+langchain-core
+python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+langchain-classic
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+pypdf
